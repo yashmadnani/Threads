@@ -1,5 +1,6 @@
 ```C#
 
+// Creating a thread with the Thread class
 using System;
         using System.Threading;
         namespace Chapter1
